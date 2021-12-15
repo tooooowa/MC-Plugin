@@ -171,10 +171,10 @@ status:
 #----------------------- Villager settings -----------------------#
 
 villager:
-  #These are the default settings for created Villager Shops
-  name_admin: "&cAdmin Shop"
-  name_available: "&aAvailable shop!"
-  name_taken: "&b%player%'s shop" #Placeholders: %player%
+  #作成された村人ショップの初期設定です
+  name_admin: "&c管理者ショップ"
+  name_available: "&a利用可能なショップ"
+  name_taken: "&b%player%のお店" #Placeholders: %player%
   #Enabling this will make the villagers move around like normal
   #villagers and enable gravity.
   ai: false
