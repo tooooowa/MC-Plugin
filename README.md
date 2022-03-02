@@ -3,6 +3,6 @@
 
 Pluginコンフィグ一覧
 
-_Pull-Requests_してくれれば
+Pull-Requests してくれれば
 
 気づいたら追加します
