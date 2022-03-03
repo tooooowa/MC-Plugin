@@ -1,4 +1,4 @@
-# MC-Plugin
+# MC-ZSHARE
 **PlayerWorld**のための
 
 Pluginコンフィグ一覧
